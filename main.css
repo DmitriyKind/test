@@ -1,0 +1,149 @@
+body {
+    font-family: Arial, serif;
+    margin: 0;
+}
+
+#main {
+    background-image: url("images/bg.png");
+    background-size: cover;
+    background-position: center;
+}
+
+#header {
+    padding: 32px 0;
+    border-bottom: 1px solid #9E88D2;
+}
+
+#header-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+#info-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 140px 0 205px 0;
+}
+
+#span-one {
+    color: #E1C569;
+    font-size: 16px;
+    margin-right: 281px;
+    font-weight: bold;
+}
+
+.menu-item {
+    text-decoration: none;
+    color: #ede0f8;
+    font-size: 16px;
+    margin-right: 51px;
+}
+
+h1 {
+    font-size: 45px;
+    color: white;
+    max-width: 452px;
+    margin: 0 0 88px 0;
+}
+
+#text-white {
+    color: white;
+    margin: 0;
+}
+
+#images {
+    vertical-align: bottom;
+    margin-right: 14px;
+}
+
+#button {
+    width: 224px;
+    height: 60px;
+    font-size: 16px;
+    color: white;
+    background: transparent;
+    border: 2px solid;
+    margin-top: 100px;
+}
+
+#learn-to-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+#one {
+    font-size: 35px;
+    color: #8374D0;
+    margin: 0;
+    padding-bottom: 68px;
+}
+
+#class-group {
+    margin: 0 0 15px 0;
+}
+
+.class {
+    vertical-align: bottom;
+    margin-right: 14px;
+}
+
+#class-group {
+    padding: 140px 0 140px 0;
+}
+
+#background {
+    background-image: url("images/bg2.png");
+    background-size: cover;
+    background-position: center
+}
+
+#footer {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 140px 0;
+}
+
+#frame {
+    background: white;
+    width: 1000px;
+    margin: 0 auto;
+    border-radius: 20px;
+    padding-top: 60px;
+    padding-bottom: 44px;
+    text-align: center;
+}
+
+#footer-container {
+    padding: 46px 0;
+    border-top: 1px solid #9E88D2;
+    text-align: center;
+    font-weight: bold;
+}
+
+#two {
+    font-size: 35px;
+    color: #8374D0;
+    margin: 0 0 40px 0;
+}
+
+.text {
+    color: #311b5e;
+    line-height: 24px;
+    margin: 0 auto 30px auto;
+    max-width: 595px;
+}
+
+#button2 {
+    width: 224px;
+    height: 60px;
+    font-size: 16px;
+    color: #8374D0;
+    background: transparent;
+    border: 2px solid;
+    margin-top: 10px;
+}
+
+#span-two {
+    color: #E1C569;
+    font-size: 16px;
+}
